@@ -1,0 +1,9 @@
+E:\TestProject\DocNet\Src\Src.Demos\bin\Debug\netstandard2.0\Src.Demos.deps.json
+E:\TestProject\DocNet\Src\Src.Demos\bin\Debug\netstandard2.0\Src.Demos.dll
+E:\TestProject\DocNet\Src\Src.Demos\bin\Debug\netstandard2.0\Src.Demos.pdb
+E:\TestProject\DocNet\Src\Src.Demos\obj\Debug\netstandard2.0\Src.Demos.csprojAssemblyReference.cache
+E:\TestProject\DocNet\Src\Src.Demos\obj\Debug\netstandard2.0\Src.Demos.csproj.CoreCompileInputs.cache
+E:\TestProject\DocNet\Src\Src.Demos\obj\Debug\netstandard2.0\Src.Demos.AssemblyInfoInputs.cache
+E:\TestProject\DocNet\Src\Src.Demos\obj\Debug\netstandard2.0\Src.Demos.AssemblyInfo.cs
+E:\TestProject\DocNet\Src\Src.Demos\obj\Debug\netstandard2.0\Src.Demos.dll
+E:\TestProject\DocNet\Src\Src.Demos\obj\Debug\netstandard2.0\Src.Demos.pdb

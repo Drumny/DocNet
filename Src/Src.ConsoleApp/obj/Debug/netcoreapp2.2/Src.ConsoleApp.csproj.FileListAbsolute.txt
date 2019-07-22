@@ -1,0 +1,16 @@
+E:\TestProject\DocNet\Src\Src.ConsoleApp\bin\Debug\netcoreapp2.2\Src.ConsoleApp.deps.json
+E:\TestProject\DocNet\Src\Src.ConsoleApp\bin\Debug\netcoreapp2.2\Src.ConsoleApp.runtimeconfig.json
+E:\TestProject\DocNet\Src\Src.ConsoleApp\bin\Debug\netcoreapp2.2\Src.ConsoleApp.runtimeconfig.dev.json
+E:\TestProject\DocNet\Src\Src.ConsoleApp\bin\Debug\netcoreapp2.2\Src.ConsoleApp.dll
+E:\TestProject\DocNet\Src\Src.ConsoleApp\bin\Debug\netcoreapp2.2\Src.ConsoleApp.pdb
+E:\TestProject\DocNet\Src\Src.ConsoleApp\bin\Debug\netcoreapp2.2\Src.Common.dll
+E:\TestProject\DocNet\Src\Src.ConsoleApp\bin\Debug\netcoreapp2.2\Src.Demos.dll
+E:\TestProject\DocNet\Src\Src.ConsoleApp\bin\Debug\netcoreapp2.2\Src.Common.pdb
+E:\TestProject\DocNet\Src\Src.ConsoleApp\bin\Debug\netcoreapp2.2\Src.Demos.pdb
+E:\TestProject\DocNet\Src\Src.ConsoleApp\obj\Debug\netcoreapp2.2\Src.ConsoleApp.csprojAssemblyReference.cache
+E:\TestProject\DocNet\Src\Src.ConsoleApp\obj\Debug\netcoreapp2.2\Src.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\TestProject\DocNet\Src\Src.ConsoleApp\obj\Debug\netcoreapp2.2\Src.ConsoleApp.AssemblyInfoInputs.cache
+E:\TestProject\DocNet\Src\Src.ConsoleApp\obj\Debug\netcoreapp2.2\Src.ConsoleApp.AssemblyInfo.cs
+E:\TestProject\DocNet\Src\Src.ConsoleApp\obj\Debug\netcoreapp2.2\Src.ConsoleApp.csproj.CopyComplete
+E:\TestProject\DocNet\Src\Src.ConsoleApp\obj\Debug\netcoreapp2.2\Src.ConsoleApp.dll
+E:\TestProject\DocNet\Src\Src.ConsoleApp\obj\Debug\netcoreapp2.2\Src.ConsoleApp.pdb
